@@ -9,7 +9,6 @@ Ideas of the book:
 - separate models from database
 - TDD
 
-
 ## v0 is Declarative Mapping in SQLAlchemy
 Started with code from this tutorial on SQLAlchemy:
 https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/
